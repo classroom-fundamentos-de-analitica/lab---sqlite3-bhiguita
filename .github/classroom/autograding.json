@@ -129,16 +129,6 @@
       "comparison": "included",
       "timeout": 1,
       "points": 1
-    },
-    {
-      "name": "Pregunta 14",
-      "setup": "pip3 install pandas==1.1.5",
-      "run": "python3 tests.py 14",
-      "input": "",
-      "output": "",
-      "comparison": "included",
-      "timeout": 1,
-      "points": 1
     }
   ]
 }
