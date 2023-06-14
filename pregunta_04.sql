@@ -38,5 +38,6 @@
 --  1  B  BDEE
 --  2  C  CCCE
 --
+SELECT k0, c16 FROM tbl1 WHERE SUBSTR(k0,1,1) = SUBSTR(c16,1,1);
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
