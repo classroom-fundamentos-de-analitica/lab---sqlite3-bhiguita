@@ -1,4 +1,5 @@
 -- 
+
 --  La tabla `tbl1` tiene la siguiente estructura:
 -- 
 --    K0  CHAR(1)
